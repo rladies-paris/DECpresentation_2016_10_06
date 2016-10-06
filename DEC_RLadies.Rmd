@@ -1,7 +1,7 @@
 ---
 title: "R-Ladies DEC Presentation"
 author: "Christina Bergmann & Page Piccinini"
-date: "October 4, 2016"
+date: "October 6, 2016"
 output:
   slidy_presentation:
     incremental: true
@@ -66,7 +66,7 @@ And, because it's Nobel Prize week...
 
 
 
-## Why?
+## But wait!
 
 It's not just academia!
 
@@ -93,32 +93,19 @@ It's not just academia!
 
 Digital fluency helps close the gender wage gap!
 
-<img src="images/genderequalitychart_final.jpeg" width="900px" />
+<img src="images/genderequalitychart_final.jpeg" width="800px" />
 
 [Source](http://fortune.com/2016/03/03/women-digitally-fluent/?iid=sr-link1)
 
 
 ## Does R-Ladies help?
 
+
 How's digital fluency in France and across the globe?
 
-<img src="images/digital-fluency-gap.jpeg" width="900px" />
+<img src="images/digital-fluency-gap.jpeg" width="800px" />
 
 [Source](http://fortune.com/2016/03/03/women-digitally-fluent/?iid=sr-link1)
-
-
-## What are we actually doing?
-
-A regular (monthly) meeting, centered around R
-
-Topics will include: 
-
-- Introduction to R
-- Mentoring (matching up experienced users and beginners, people new to industry and senior folks)
-- Discussion of specific packages and tools (such as tidyverse, shiny, ggplot2, RMarkdown)
-- Tutorials (e.g., on visualization principles and techniques, data wrangling, analysis techniques)
-
-
 
 ## Who
 
@@ -127,6 +114,26 @@ Organized by Page Piccinini (NPI), Christina Bergmann (LSCP), and Diane Beldame 
 Currently about 60 members
 
 You are invited, too, independent of your gender identity. Really! Men can come, as long as a member who is also there vouches for them. 
+
+
+
+## What are we actually doing?
+
+A monthly meeting, centered around R, with talks / tutorials and social time. 
+
+Topics will include: 
+
+- Introduction to R and various R-features 
+- Mentoring (matching up experienced users and beginners, people new to industry and senior folks)
+- Discussion of specific packages and tools (such as tidyverse, shiny, ggplot2, RMarkdown)
+- Tutorials e.g., on visualization principles and techniques, data wrangling, analysis techniques
+
+## What are we actually doing?
+
+Concrete suggestions from last night's inaugural meeting:
+
+- Create a Facebook group
+- Organize "Shut up and code" where members can help each other out
 
 
 ## How
