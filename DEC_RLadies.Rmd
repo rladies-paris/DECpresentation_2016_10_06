@@ -1,6 +1,6 @@
 ---
-title: "R-Ladies DEC Presentation"
-author: "Christina Bergmann & Page Piccinini"
+title: "R-Ladies Paris: Why, What, Who?"
+author: "Page Piccinini & Christina Bergmann"
 date: "October 6, 2016"
 output:
   slidy_presentation:
@@ -18,7 +18,7 @@ Gender imbalances are real!
 
 ## Exhibit 1
 
-Speakers (keynote, debates, invited symposium) at the Society for the Neurobiology of Language conferences 2009–2015
+Speakers (keynote, debates, invited symposium) at the Society for the Neurobiology of Language conferences 2009-2015
 
 <img src="images/SFN.png" width="700px" />
 
@@ -109,11 +109,14 @@ How's digital fluency in France and across the globe?
 
 ## Who
 
-Organized by Page Piccinini (NPI), Christina Bergmann (LSCP), and Diane Beldame (ThinkR)
+R-Ladies: a global organisation with chapters in San Francisco, London, Istanbul...
 
-Currently about 60 members
 
-You are invited, too, independent of your gender identity. Really! Men can come, as long as a member who is also there vouches for them. 
+Paris chapter organized by Page Piccinini (NPI), Christina Bergmann (LSCP), and Diane Beldame (ThinkR)
+
+Currently about 70 members
+
+You are invited, too, independent of your gender identity. Really! Men can come, as long as a member who is also at the meeting vouches for them. 
 
 
 
@@ -125,7 +128,7 @@ Topics will include:
 
 - Introduction to R and various R-features 
 - Mentoring (matching up experienced users and beginners, people new to industry and senior folks)
-- Discussion of specific packages and tools (such as tidyverse, shiny, ggplot2, RMarkdown)
+- Discussion of specific packages and tools such as tidyverse, shiny, ggplot2, RMarkdown
 - Tutorials e.g., on visualization principles and techniques, data wrangling, analysis techniques
 
 ## What are we actually doing?
@@ -144,6 +147,7 @@ Note, there is a code of conduct. Yes, it's necessary.
 
 ## Sponsors
 
+>- R Consortium
 >- DEC
 >- CogWorks
 >- ThinkR
